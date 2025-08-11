@@ -1,0 +1,1055 @@
+{
+  "stations": [
+    {
+      "id": "STA701",
+      "station_number": "701",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E701",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA702",
+      "station_number": "702",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E702",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA703",
+      "station_number": "703",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E703",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT703",
+          "type": "TRUCK",
+          "extrication": false
+        },
+        {
+          "id": "RS703",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA704",
+      "station_number": "704",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E704",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT704",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA705",
+      "station_number": "705",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E705",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA706",
+      "station_number": "706",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "T706 EXTRICATION",
+      "units": [
+        {
+          "id": "E706",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T706",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA707",
+      "station_number": "707",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E707",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA708",
+      "station_number": "708",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E708",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT708",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA710",
+      "station_number": "710",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "T710 EXTRICATION",
+      "units": [
+        {
+          "id": "E710",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T710",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA711",
+      "station_number": "711",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E711",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA712",
+      "station_number": "712",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E712",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA713",
+      "station_number": "713",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E713",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA714",
+      "station_number": "714",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "RE714 EXTRICATION",
+      "units": [
+        {
+          "id": "RE714",
+          "type": "RESCUE_ENGINE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA715",
+      "station_number": "715",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "T715 EXTRICATION",
+      "units": [
+        {
+          "id": "E715",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T715",
+          "type": "TRUCK",
+          "extrication": false
+        },
+        {
+          "id": "RS715",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA716",
+      "station_number": "716",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "T716 EXTRICATION",
+      "units": [
+        {
+          "id": "E716",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T716",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA717",
+      "station_number": "717",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E717",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "RS717",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA718",
+      "station_number": "718",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E718",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT718",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA719",
+      "station_number": "719",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E719",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT719",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA720",
+      "station_number": "720",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E720",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA721",
+      "station_number": "721",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E721",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA722",
+      "station_number": "722",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E722",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA723",
+      "station_number": "723",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E723",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT723",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA724",
+      "station_number": "724",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E724",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT724",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA725",
+      "station_number": "725",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "T725 EXTRICATION",
+      "units": [
+        {
+          "id": "E725",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T725",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA726",
+      "station_number": "726",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E726",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA728",
+      "station_number": "728",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E728",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA729",
+      "station_number": "729",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E729",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "RS729",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA730",
+      "station_number": "730",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E730",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA731",
+      "station_number": "731",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "T731 EXTRICATION",
+      "units": [
+        {
+          "id": "E731",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T731",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA732",
+      "station_number": "732",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E732",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA733",
+      "station_number": "733",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E733",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA734",
+      "station_number": "734",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": "T734 EXTRICATION",
+      "units": [
+        {
+          "id": "E734",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T734",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA735",
+      "station_number": "735",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E735",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT735",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA740",
+      "station_number": "740",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E740",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA741",
+      "station_number": "741",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "RS741",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA742",
+      "station_number": "742",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "RS742",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA750",
+      "station_number": "750",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E750",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA751",
+      "station_number": "751",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "AT751",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA752",
+      "station_number": "752",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E752",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA753",
+      "station_number": "753",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E753",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA754",
+      "station_number": "754",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E754",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA801",
+      "station_number": "801",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E801",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T801",
+          "type": "TRUCK",
+          "extrication": false
+        },
+        {
+          "id": "RS801",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA810",
+      "station_number": "810",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E810",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT810",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA811",
+      "station_number": "811",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E811",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA812",
+      "station_number": "812",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E812",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T812",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA814",
+      "station_number": "814",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "T814",
+          "type": "TRUCK",
+          "extrication": false
+        },
+        {
+          "id": "RS814",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA831",
+      "station_number": "831",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E831",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T831",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA834",
+      "station_number": "834",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E834",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T834",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA841",
+      "station_number": "841",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E841",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA844",
+      "station_number": "844",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E844",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STA849",
+      "station_number": "849",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E849",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "RS849",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STA855",
+      "station_number": "855",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E855",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STAAA27",
+      "station_number": "AA27",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "RE27",
+          "type": "RESCUE_ENGINE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STAAA29",
+      "station_number": "AA29",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E29",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T29",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STAHOWARD 6",
+      "station_number": "HOWARD 6",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E61",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "T6",
+          "type": "TRUCK",
+          "extrication": false
+        },
+        {
+          "id": "RS6",
+          "type": "RESCUE",
+          "extrication": true
+        }
+      ]
+    },
+    {
+      "id": "STAHOWARD 10",
+      "station_number": "HOWARD 10",
+      "lat": null,
+      "lng": null,
+      "single_pull": true,
+      "special_notes": "SINGLE PULL",
+      "units": [
+        {
+          "id": "E101",
+          "type": "ENGINE",
+          "extrication": false
+        },
+        {
+          "id": "AT10",
+          "type": "TRUCK",
+          "extrication": false
+        }
+      ]
+    },
+    {
+      "id": "STAHOWARD 11",
+      "station_number": "HOWARD 11",
+      "lat": null,
+      "lng": null,
+      "single_pull": false,
+      "special_notes": null,
+      "units": [
+        {
+          "id": "E111",
+          "type": "ENGINE",
+          "extrication": false
+        }
+      ]
+    }
+  ],
+  "unit_type_aliases": {
+    "ENGINE": [
+      "ENG",
+      "E"
+    ],
+    "TRUCK": [
+      "AT",
+      "T",
+      "AERIAL",
+      "TOWER"
+    ],
+    "RESCUE": [
+      "RS",
+      "SQUAD",
+      "RESCUE SQUAD"
+    ],
+    "RESCUE_ENGINE": [
+      "RE",
+      "R/E",
+      "RESCUE ENGINE"
+    ],
+    "AMBULANCE": [
+      "A",
+      "AMB",
+      "MEDIC",
+      "M"
+    ]
+  },
+  "call_type_requirements": {
+    "BLDGFIRE": {
+      "ENGINE": 3,
+      "TRUCK": 1,
+      "RESCUE": 1,
+      "AMBULANCE": 1
+    },
+    "PIC1": {
+      "ENGINE": 1,
+      "RESCUE": 1,
+      "AMBULANCE": 1
+    }
+  }
+}
